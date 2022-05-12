@@ -1,22 +1,21 @@
-# SweetDreams
+### About
 
-A Flutter project.
+This app was created as a group project in my Software Engineering class. We used Android Studio and Flutter. This app is not being maintained so certain updates may break it. 
 
-## Getting Started
+### Screenshots of the App
+Loading Screen that will take you to the homepage. Pressing the '+' button on the bottom right brings you to the calculator that will enter the data you put into a log that appears on the main menu. 
 
-This project is a starting point for a Flutter application.
+<img width="155" alt="Screen Shot 2022-05-12 at 5 34 19 PM" src="https://user-images.githubusercontent.com/25695704/168171941-05b60e5c-f377-4c9d-be08-afb969cf8457.png"> -- <img width="155" alt="Screen Shot 2022-05-12 at 5 34 26 PM" src="https://user-images.githubusercontent.com/25695704/168172039-e0abef37-dbfc-4592-8113-387791087f71.png">
+ -- <img width="155" alt="Screen Shot 2022-05-12 at 5 34 33 PM" src="https://user-images.githubusercontent.com/25695704/168172049-c8955454-89f5-4243-99d6-15f690bdd4ab.png">
+ 
+ Pressing the three lines at the top right of the homepage will bring up a hamburger menu. This lets you access the other available features the app has.
+ 
+<img width="155" alt="Screen Shot 2022-05-12 at 5 34 39 PM" src="https://user-images.githubusercontent.com/25695704/168172058-2fe6cc84-1533-465c-949b-0409b96601cc.png"> -- <img width="155" alt="Screen Shot 2022-05-12 at 5 34 49 PM" src="https://user-images.githubusercontent.com/25695704/168172066-93017169-d8b9-46ae-959c-bb33dea16dfe.png">
+<img width="155" alt="Screen Shot 2022-05-12 at 5 34 55 PM" src="https://user-images.githubusercontent.com/25695704/168172073-131cd2e2-546a-465b-81b5-89b365f70613.png">
+<img width="155" alt="Screen Shot 2022-05-12 at 5 35 00 PM" src="https://user-images.githubusercontent.com/25695704/168172093-4115ed87-f3fc-49b6-8141-6e47659d09d7.png">
+<img width="155" alt="Screen Shot 2022-05-12 at 5 35 06 PM" src="https://user-images.githubusercontent.com/25695704/168172104-07bd71ea-a5b4-4f7c-9658-7c6f0492fbb1.png">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### App Demo
+https://user-images.githubusercontent.com/25695704/168173858-68151cf7-4fdc-499c-9ffb-7cc1d3724348.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-# Acknowledgement
-
-Code adapted from [Liem Vo](https://medium.com/codechai/the-mvp-architecture-pattern-in-flutter-with-simple-demo-65ab3282c54b)
-
-Written by: Joseph Hnatek - hnate002@d.umn.edu :)
