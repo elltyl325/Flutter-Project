@@ -1,6 +1,6 @@
 ### About
 
-This app was created as a group project in my Software Engineering class. We used Android Studio, Flutter, and MongoDB. This app is not being maintained so certain updates may break it. The idea of the app is for the user to be able to keep a sleep journal where they will log there sleep every night. Eventually they can look back on all of the data and see how they have been sleeping, and potentially find a way to improve it. It includes bonus features like graphs of their slept hours per night, alarms to wake up on time, soothing sounds to sleep on time, and more. 
+This app was created as a group project in my Software Engineering class. We used Android Studio, Flutter, Dart, and MongoDB. This app is not being maintained so certain updates may break it. The idea of the app is for the user to be able to keep a sleep journal where they will log there sleep every night. Eventually they can look back on all of the data and see how they have been sleeping, and potentially find a way to improve it. It includes bonus features like graphs of their slept hours per night, alarms to wake up on time, soothing sounds to sleep on time, and more. 
 
 ### Screenshots of the App
 Loading Screen that will take you to the homepage. Pressing the '+' button on the bottom right brings you to the calculator that will enter the data you put into a log that appears on the main menu. 
